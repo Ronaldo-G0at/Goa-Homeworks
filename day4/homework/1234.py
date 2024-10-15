@@ -5,4 +5,8 @@ brother0=18
 brother1=24
 brother2=28
 print(me+20)
-
+print(mom+20)
+print(dad+20)
+ptint(brother0+20)
+print(brother1+20)
+print(brother2+20)
